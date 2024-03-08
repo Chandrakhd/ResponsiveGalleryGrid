@@ -1,6 +1,6 @@
 # This is the simple responsive gallery grid built using html css.
 
-[![Live Url](./image/ResponsiveGalleryCard.png)]()
+[![Live Url](./image/ResponsiveGalleryCard.png)](https://chandrakhd.github.io/ResponsiveGalleryGrid/)
 
 ### Images Used in This Project
 
